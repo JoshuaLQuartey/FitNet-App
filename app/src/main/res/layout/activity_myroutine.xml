@@ -1,0 +1,177 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".myroutine">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/user_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Routine"
+            android:gravity="top"
+            android:textSize="30sp" />
+
+        <!-- Monday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Monday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_monday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+        <ListView
+            android:id="@+id/listview_monday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+        <!-- Tuesday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tuesday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_tuesday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+        <ListView
+            android:id="@+id/listview_tuesday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+        <!-- Wednesday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wednesday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_wednesday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+        <ListView
+            android:id="@+id/listview_wednesday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+        <!-- Thursday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thursday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_thursday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+        <ListView
+            android:id="@+id/listview_thursday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+        <!-- Friday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Friday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_friday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+        <ListView
+            android:id="@+id/listview_friday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+        <!-- Saturday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Saturday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_saturday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+        <ListView
+            android:id="@+id/listview_saturday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+        <!-- Sunday -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sunday"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+        <Button
+            android:id="@+id/add_exercise_sunday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Exercise" />
+
+        <ListView
+            android:id="@+id/listview_sunday"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:clipToPadding="false"
+            android:paddingBottom="16dp"/>
+
+    </LinearLayout>
+</ScrollView>

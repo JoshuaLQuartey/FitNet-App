@@ -1,0 +1,52 @@
+<resources>
+    <string-array name="categories">
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Legs</item>
+        <item>Arms</item>
+        <item>Shoulders</item>
+    </string-array>
+    <string name="app_name">FitNet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="workout">workout</string>
+    <string name="enter_workout_name">enter workout name</string>
+    <string name="weight">weight</string>
+    <string name="enter_weight_in_kg">Enter weight in kg</string>
+    <string name="enter_workouts_name">Enter workout name</string>
+    <string name="select_category">Select Category</string>
+    <string name="workouts">Workouts</string>
+    <string name="add">Add</string>
+    <string name="routine">Routine</string>
+    <string name="my_routine">My Routine</string>
+    <string name="preset_routine">Preset Routine</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="notification">Notifications</string>
+    <string name="unit_of_measurements">Unit of Measurement</string>
+    <string name="kg">kg</string>
+    <string name="ibs">ibs</string>
+    <string name="item">Item</string>
+    <string name="working_weight">Working Weight</string>
+    <string name="reps">Reps</string>
+    <string name="pr">PR</string>
+    <string name="edit">Edit</string>
+    <string name="workout_name">Workout name</string>
+    <string name="edit_workout">Edit Workout</string>
+    <string name="click_on_workout_to_edit">click on workout to edit</string>
+    <string name="what_is_your_current_working_weight">What is your current working weight?</string>
+    <string name="how_many_reps">How many reps?</string>
+    <string name="what_is_your_current_pr">What is your current PR?</string>
+    <string name="back">go back</string>
+    <string name="Fitnet">fitnet</string>
+    <string name="fitnet">FitNet</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="registration">Registration</string>
+    <string name="click_to_log_in">Click to Log in</string>
+    <string name="log_out">Logout</string>
+    <string name="hold_on_workout_to_edit">Hold on workout to delete</string>
+</resources>

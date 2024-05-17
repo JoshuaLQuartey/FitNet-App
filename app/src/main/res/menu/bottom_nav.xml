@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_workout"
+        android:title="Workout"
+        android:icon="@drawable/ic_workout"/>
+
+    <item
+        android:id="@+id/bottom_routine"
+        android:title="Routine"
+        android:icon="@drawable/ic_routine"/>
+
+    <item
+        android:id="@+id/bottom_account"
+        android:title="Account"
+        android:icon="@drawable/ic_account"/>
+
+</menu>

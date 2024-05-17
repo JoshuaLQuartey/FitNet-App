@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "876940168058",
+    "project_id": "fitnet-d8ab4",
+    "storage_bucket": "fitnet-d8ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876940168058:android:1ffcd30e5645c72d9024c3",
+        "android_client_info": {
+          "package_name": "com.example.fitnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876940168058-kj53pfajdmedp1is55g0j2g7p350oe8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZFYB5Eo6peRU6lirqfHdgDEUXzqUHMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876940168058-kj53pfajdmedp1is55g0j2g7p350oe8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876940168058:android:a83549ae2f10f83f9024c3",
+        "android_client_info": {
+          "package_name": "com.example.fitnet_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876940168058-kj53pfajdmedp1is55g0j2g7p350oe8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZFYB5Eo6peRU6lirqfHdgDEUXzqUHMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876940168058-kj53pfajdmedp1is55g0j2g7p350oe8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
